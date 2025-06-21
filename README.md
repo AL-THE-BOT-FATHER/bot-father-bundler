@@ -4,6 +4,10 @@
 
 **BOT FATHER BUNDLER** is a lightweight desktop tool for managing Pump.Fun token launches on Solana.
 
+## Install
+
+```git clone https://github.com/AL-THE-BOT-FATHER/bot-father-bundler.git```
+
 ## Features
 
 - **Bundle Management**  
@@ -25,4 +29,6 @@
 
 Telegram: t.me/Bot_Mafia_Support
 
-⚠️ Legal Disclaimer: By using this tool you do so of your own free will. Any financial losses are your own responsibility.
+## ⚠️ Legal Disclaimer: 
+
+By using this tool you do so of your own free will. Any financial losses are your own responsibility.
