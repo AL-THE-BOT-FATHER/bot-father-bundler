@@ -1,0 +1,1 @@
+Bundle json files are stored here. Files contain priv keys. Keep these files safe.

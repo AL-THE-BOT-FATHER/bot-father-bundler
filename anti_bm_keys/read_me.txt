@@ -1,0 +1,1 @@
+Anti bubble map keys are stored here in case of failure.
