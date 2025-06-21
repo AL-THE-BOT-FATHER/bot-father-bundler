@@ -19,4 +19,5 @@
   – One-time service charge per bundle: **0.1 SOL**  
   – No additional fees on buys, sells or transfers  
 
-![image](https://github.com/user-attachments/assets/1d7b31b4-ec20-474d-b175-7c51e572d602)
+![image](https://github.com/user-attachments/assets/12915a14-0d77-4711-9928-9473ebcfa420)
+
